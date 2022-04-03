@@ -1,0 +1,11 @@
+gunicorn
+certifi
+itsdangerous
+flask
+jinja2
+markupsafe
+werkzeug
+scipy
+scikit-learn
+matplotlib
+flasgger
