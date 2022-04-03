@@ -9,3 +9,8 @@ scipy
 scikit-learn
 matplotlib
 flasgger
+streamlit
+numpy
+pandas
+plotly
+seaborn
